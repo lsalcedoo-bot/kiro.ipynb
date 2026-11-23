@@ -1,9 +1,6 @@
 .kiro/
 __pycache__/
 *.pyc
-# Imagenes generadas por matplotlib al ejecutar flow_net.py
-red_de_flujo.png
-subpresiones.png
 # Versiones previas superadas por el spec
 ejercicio10_presa_tierra.py
 presa_tierra_flujo.py
